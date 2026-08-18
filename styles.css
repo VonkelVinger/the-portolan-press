@@ -60,3 +60,13 @@ h3 {
 
     margin-top: 2rem;
 }
+a {
+    color: #4b3f32;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+}
+
+a:hover {
+    border-bottom-color: #4b3f32;
+}
