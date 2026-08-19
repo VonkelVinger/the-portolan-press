@@ -40,7 +40,17 @@ For the Portolan map, we will therefore show both **Sri Lanka and Sumatra**, rat
 
 ## What is going on here?
 
-[Historical and literary context to be inserted here.]
+Mandeville’s gold-keeping pismires were already ancient by the time he wrote about them.
+
+Nearly eighteen centuries earlier, **Herodotus** described enormous ants in the sandy country of northern India. As they dug their burrows, they supposedly brought up sand containing gold. The local people would seize the gold and then race away on camels before the creatures could catch them.
+
+The Roman writer **Pliny the Elder** later repeated another version of the story, placing the gold-digging ants among the Dardae of northern India and describing them as large, fierce and astonishingly fast.
+
+Mandeville therefore seems to be retelling and reshaping a very old piece of geographical folklore rather than reporting something newly encountered.
+
+There have been repeated attempts to find a real animal behind the legend. One suggestion is that tales about burrowing animals such as Himalayan marmots, whose excavations can bring gold-bearing soil to the surface, were transformed in transmission into stories of giant ants. The identification is intriguing, but it remains unproven.
+
+What matters for Portolan is that the story travelled almost as far as Mandeville claimed to have done – from ancient Greek accounts of India, through Roman natural history, into the geographical imagination of medieval Europe.
 
 ## Portolan notes
 
