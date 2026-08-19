@@ -54,4 +54,21 @@ What matters for Portolan is that the story travelled almost as far as Mandevill
 
 ## Portolan notes
 
-[Annotations and source notes to be inserted here.]
+### Notes
+
+**Pismires** – an old English word for ants.
+
+**Taprobane** – a classical and medieval geographical name most commonly associated with Sri Lanka, although later European geography sometimes confused or identified it with Sumatra.
+
+**Prester John** – the legendary Christian ruler whom medieval Europeans imagined as reigning somewhere far to the east.
+
+### Sources
+
+- **The Travels of Sir John Mandeville**, modern-spelling edition edited by A. W. Pollard, 1900. The Taprobane and pismire passage appears in Chapter XXXIII.
+- **Herodotus, Histories 3.102–105.** Herodotus describes gold-bearing sand excavated by enormous ants in northern India and people escaping with the gold on camels.
+- **Pliny the Elder, Natural History 11.36.** Pliny places gold-digging ants among the Dardae of northern India and describes them as exceptionally large and fierce.
+- The proposed connection between the legend and Himalayan marmots should be treated as a hypothesis, not an established explanation.
+
+### Editorial method
+
+The Portolan reading text preserves the sequence, imagery and distinctive details of Mandeville’s account while lightly modernising grammar and vocabulary for ease of reading. Unusual words that add character, such as **pismires**, are retained and explained.
