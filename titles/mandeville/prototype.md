@@ -1,1 +1,1 @@
-# Prototype 01 – The Hills of Gold
+# Prototype 01 â€“ The Hills of Gold
