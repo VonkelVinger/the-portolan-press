@@ -30,7 +30,13 @@ Men, however, they will not tolerate at all.
 
 ## On the map
 
-[Map and geographical context to be inserted here.]
+Mandeville places his hills of gold on **Taprobane**, an island at the far eastern edge of the world he describes.
+
+Finding Taprobane on a modern map is less straightforward than it sounds. In classical geography the name referred to **Sri Lanka**, but during the later Middle Ages European travellers and mapmakers increasingly confused Taprobane with **Sumatra**. By Mandeville’s time the name had become part place, part inherited geographical idea.
+
+His Taprobane lies east of the legendary realm of Prester John, close to further islands rich in gold and silver and, beyond them, the approaches to the Earthly Paradise.
+
+For the Portolan map, we will therefore show both **Sri Lanka and Sumatra**, rather than pretending that Mandeville’s imagined geography can be pinned confidently to one modern location.
 
 ## What is going on here?
 
