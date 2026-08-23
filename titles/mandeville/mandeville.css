@@ -140,3 +140,33 @@ strong {
         padding: 32px 24px;
     }
 }
+.return-to-story {
+    position: fixed;
+    top: 22px;
+    right: 22px;
+    z-index: 1000;
+
+    padding: 0.7rem 1rem;
+
+    background: #4b3f32;
+    color: #f7f2e8;
+
+    border: 1px solid #4b3f32;
+    border-radius: 2px;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+
+    cursor: pointer;
+
+    opacity: 0;
+    pointer-events: none;
+
+    transition: opacity 0.2s ease;
+}
+
+.return-to-story.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
