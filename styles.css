@@ -73,3 +73,21 @@ a:hover {
 a:visited {
     color: #4b3f32;
 }
+.expedition a {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.8rem 1.4rem;
+    background: #4b3f32;
+    color: #f7f2e8;
+    border: 1px solid #4b3f32;
+    border-radius: 2px;
+}
+
+.expedition a:visited {
+    color: #f7f2e8;
+}
+
+.expedition a:hover {
+    background: transparent;
+    color: #4b3f32;
+}
