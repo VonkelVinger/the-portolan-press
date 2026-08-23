@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img"
+     aria-labelledby="mapTitle mapDesc">
+
+  <title id="mapTitle">Mandeville's East</title>
+  <desc id="mapDesc">
+    An interpretive Portolan-style map showing Sri Lanka, Sumatra,
+    the uncertain medieval location of Taprobane, the imagined realm
+    of Prester John and the direction of the Earthly Paradise.
+  </desc>
+
+  <defs>
+    <pattern id="paper" width="80" height="80" patternUnits="userSpaceOnUse">
+      <rect width="80" height="80" fill="#e8dcc3"/>
+      <path d="M0 18 H80 M0 55 H80" stroke="#b8a98a" stroke-width="0.5" opacity="0.18"/>
+      <path d="M22 0 V80 M61 0 V80" stroke="#b8a98a" stroke-width="0.5" opacity="0.12"/>
+    </pattern>
+
+    <style>
+      .coast { fill:#c7b587; stroke:#65583f; stroke-width:2; }
+      .island { fill:#bdaa78; stroke:#65583f; stroke-width:2; }
+      .sea-label { fill:#59656a; font: italic 24px Georgia, serif; }
+      .place { fill:#332b22; font: 25px Georgia, serif; }
+      .small { fill:#5f5546; font: italic 18px Georgia, serif; }
+      .legend { fill:#44392d; font: 17px Georgia, serif; }
+      .title { fill:#332b22; font: 34px Georgia, serif; letter-spacing:2px; }
+      .rhumb { stroke:#947f5d; stroke-width:1; opacity:0.28; }
+      .route { fill:none; stroke:#8a4931; stroke-width:4; }
+      .uncertain { fill:none; stroke:#5c5142; stroke-width:3; stroke-dasharray:10 9; }
+      .imagined { fill:#b56e54; opacity:0.16; stroke:#8a4931; stroke-width:2; stroke-dasharray:8 7; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="620" fill="url(#paper)"/>
+
+  <g>
+    <line class="rhumb" x1="600" y1="310" x2="0" y2="60"/>
+    <line class="rhumb" x1="600" y1="310" x2="0" y2="310"/>
+    <line class="rhumb" x1="600" y1="310" x2="0" y2="560"/>
+    <line class="rhumb" x1="600" y1="310" x2="1200" y2="60"/>
+    <line class="rhumb" x1="600" y1="310" x2="1200" y2="310"/>
+    <line class="rhumb" x1="600" y1="310" x2="1200" y2="560"/>
+    <line class="rhumb" x1="260" y1="140" x2="940" y2="560"/>
+    <line class="rhumb" x1="940" y1="140" x2="260" y2="560"/>
+  </g>
+
+  <text x="55" y="65" class="title">MANDEVILLE'S EAST</text>
+  <text x="58" y="92" class="small">Between known geography and inherited marvels</text>
+
+  <path class="coast"
+        d="M95 180
+           C170 145 255 142 330 165
+           C390 182 430 220 468 255
+           C505 289 535 310 585 319
+           C628 327 665 319 700 300
+           C736 281 770 269 812 274
+           C848 279 878 302 900 332
+           L900 382
+           C855 393 818 395 779 390
+           C727 383 685 393 637 408
+           C581 425 531 427 479 416
+           C418 402 371 377 332 342
+           C296 310 264 270 222 250
+           C182 231 137 228 95 240 Z"/>
+
+  <text x="330" y="240" class="place">INDIA</text>
+  <text x="410" y="170" class="small" transform="rotate(18 410 170)">Himalayas</text>
+
+  <path class="island"
+        d="M440 390
+           C425 410 427 443 441 467
+           C451 485 468 489 481 472
+           C494 454 493 426 480 404
+           C469 386 451 378 440 390 Z"/>
+
+  <text x="395" y="515" class="place">Sri Lanka</text>
+  <text x="414" y="540" class="small">classical Taprobane</text>
+
+  <path class="island"
+        d="M910 345
+           C938 330 970 326 998 338
+           C1012 352 1014 374 1004 396
+           C989 429 969 461 950 494
+           C937 515 918 519 906 499
+           C895 480 898 449 907 422
+           C916 395 918 370 910 345 Z"/>
+
+  <text x="923" y="530" class="place">Sumatra</text>
+  <text x="896" y="555" class="small">later medieval identification</text>
+
+  <ellipse cx="710" cy="190" rx="145" ry="72" class="imagined"/>
+  <text x="638" y="180" class="place">The Realm of</text>
+  <text x="641" y="212" class="place">Prester John</text>
+
+  <path class="route"
+        d="M210 315 C305 350 355 397 440 429
+           C560 474 674 452 760 416
+           C836 385 890 376 930 393"/>
+
+  <path class="uncertain"
+        d="M470 445 C600 520 790 520 940 420"/>
+
+  <text x="615" y="472" class="place">TAPROBANE?</text>
+  <text x="603" y="498" class="small">Sri Lanka, Sumatra, or an inherited geographical idea</text>
+
+  <g transform="translate(655 345)">
+    <path d="M0 45 L28 5 L55 45 Z" fill="#7c6748"/>
+    <path d="M28 45 L58 0 L88 45 Z" fill="#8e7651"/>
+    <path d="M58 45 L78 15 L100 45 Z" fill="#6f5d43"/>
+    <circle cx="52" cy="54" r="5" fill="#8a4931"/>
+  </g>
+
+  <text x="640" y="425" class="small">the hills of gold</text>
+
+  <path class="route"
+        d="M985 365 C1055 340 1100 302 1160 250"/>
+  <polygon points="1160,250 1142,252 1152,268" fill="#8a4931"/>
+  <text x="1000" y="215" class="place">To the Earthly Paradise</text>
+  <text x="1025" y="240" class="small">beyond the mapped world</text>
+
+  <text x="520" y="285" class="sea-label">Indian Ocean</text>
+
+  <g transform="translate(1080 490)">
+    <circle cx="0" cy="0" r="43" fill="none" stroke="#65583f" stroke-width="2"/>
+    <line x1="0" y1="-58" x2="0" y2="58" stroke="#65583f" stroke-width="2"/>
+    <line x1="-58" y1="0" x2="58" y2="0" stroke="#65583f" stroke-width="2"/>
+    <polygon points="0,-50 8,-8 0,0 -8,-8" fill="#65583f"/>
+    <text x="-8" y="-66" class="legend">N</text>
+  </g>
+
+  <g transform="translate(55 455)">
+    <rect width="265" height="115" fill="#efe5d0" stroke="#9d8b69"/>
+    <line x1="18" y1="28" x2="62" y2="28" class="route"/>
+    <text x="78" y="34" class="legend">Mandeville's described route</text>
+
+    <line x1="18" y1="60" x2="62" y2="60" class="uncertain"/>
+    <text x="78" y="66" class="legend">uncertain identification</text>
+
+    <rect x="18" y="82" width="44" height="18" fill="#b56e54" opacity="0.16"
+          stroke="#8a4931" stroke-dasharray="5 4"/>
+    <text x="78" y="97" class="legend">imagined or legendary geography</text>
+  </g>
+
+  <text x="1160" y="595" text-anchor="end" class="small">
+    Interpretive map - not to scale
+  </text>
+
+</svg>
